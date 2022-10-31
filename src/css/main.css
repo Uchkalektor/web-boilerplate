@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
